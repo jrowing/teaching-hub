@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+*.app/
+*.dmg
+_backup*/
+_updates/
+.swiftpm/
+xcuserdata/
